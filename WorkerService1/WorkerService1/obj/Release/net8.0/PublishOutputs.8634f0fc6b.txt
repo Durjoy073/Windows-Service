@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\New folder\hosting2\WorkerService1.exe
+C:\Users\Dell\Documents\New folder\hosting2\appsettings.Development.json
+C:\Users\Dell\Documents\New folder\hosting2\appsettings.json
+C:\Users\Dell\Documents\New folder\hosting2\WorkerService1.dll
+C:\Users\Dell\Documents\New folder\hosting2\WorkerService1.deps.json
+C:\Users\Dell\Documents\New folder\hosting2\WorkerService1.runtimeconfig.json
+C:\Users\Dell\Documents\New folder\hosting2\WorkerService1.pdb
+C:\Users\Dell\Documents\New folder\hosting2\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Documents\New folder\hosting2\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\Dell\Documents\New folder\hosting2\Microsoft.OpenApi.dll
+C:\Users\Dell\Documents\New folder\hosting2\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Documents\New folder\hosting2\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Documents\New folder\hosting2\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Documents\New folder\hosting2\System.ServiceProcess.ServiceController.dll
+C:\Users\Dell\Documents\New folder\hosting2\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
